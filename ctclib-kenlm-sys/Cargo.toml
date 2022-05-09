@@ -15,4 +15,4 @@ readme = "README.md"
 [build-dependencies]
 bindgen = "0.59.2"
 cc = "1.0.72"
-cmake = "0.1.48"
+cmake = "=0.1.45"
